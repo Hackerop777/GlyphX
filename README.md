@@ -1,7 +1,7 @@
 # GlyphX ⚡
 
-[![Status](https://img.shields.io/badge/status-under%20development-yellow.svg)](https://github.com/PulKiTgUpTACoDe/GlyphX)
-[![Purpose](https://img.shields.io/badge/purpose-for%20fun-blue.svg)](https://github.com/PulKiTgUpTACoDe/GlyphX)
+[![Status](https://img.shields.io/badge/status-under%20development-yellow.svg)](https://github.com/Hackerop777/GlyphX)
+[![Purpose](https://img.shields.io/badge/purpose-for%20fun-blue.svg)](https://github.com/Hackerop777/GlyphX)
 [![Platform](https://img.shields.io/badge/platform-Android-3DDC84.svg)](https://android.com)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
